@@ -92,9 +92,15 @@ footer {
     text-align: center;
     font-size: 21px;
     margin: 8px;
+    color: #000;
 }
 
 .social-icon a:hover{
     color: red;
     transform: rotate(360deg);
+}
+hr {
+    width: 10%;
+    border-top: 5px solid orange;
+    border-radius: 10px;
 }
